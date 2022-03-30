@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "snowflake-brooch-footprints")(type "KiCad")(uri "D:/dev/snowflake-brooch/snowflake-brooch-footprints")(options "")(descr ""))
+)
